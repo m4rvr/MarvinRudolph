@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey! I'm Marvin.
+#### A web developer who :zap: to work with Vue.js, TypeScript and JavaScript.
 
 <!--
 **MarvinRudolph/MarvinRudolph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
