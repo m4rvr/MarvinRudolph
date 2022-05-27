@@ -1,5 +1,9 @@
 ### Hey! I'm Marvin.
-#### A web developer who :heart: to work with Vue.js, TypeScript and JavaScript.
+#### A web developer who :heart: to work with Solid.js, TypeScript and Go.
+
+I'm currently working on https://widgetwhale.co. 🐋
+
+Don't mind following on Twitter https://twitter.com/marvr_ ☺
 
 <!--
 **MarvinRudolph/MarvinRudolph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
